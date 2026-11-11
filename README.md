@@ -41,8 +41,8 @@ Il comprend une phase de modélisation, la conception du schéma relationnel et 
 
 ## Documentation
 
-- [Sujet du projet](Sujet projet BDR 25 26.pdf)
-- [Rapport du projet](docs/rapport.pdf)
+- [Sujet du projet](<Sujet projet BDR 25 26.pdf>)
+- [Rapport du projet](<rapport.pdf>)
 
 ## Auteur
 
