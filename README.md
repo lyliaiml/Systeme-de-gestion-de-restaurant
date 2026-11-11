@@ -41,7 +41,7 @@ Il comprend une phase de modélisation, la conception du schéma relationnel et 
 
 ## Documentation
 
-- [Sujet du projet](docs/sujet.pdf)
+- [Sujet du projet]([docs/sujet.pdf](https://github.com/lyliaiml/Systeme-de-gestion-de-restaurant/blob/dd39344d31d797dbcaf36a3be905a6d07b74212b/Sujet%20projet%20BDR%2025%2026.pdf))
 - [Rapport du projet](docs/rapport.pdf)
 
 ## Auteur
